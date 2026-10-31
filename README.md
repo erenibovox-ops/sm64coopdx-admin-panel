@@ -1,4 +1,7 @@
 # Admin Panel for SM64 CoopDX
+<img width="1366" height="768" alt="Super Mario 64 Coop Deluxe v1 5 1 31 10 2026 15_12_51" src="https://github.com/user-attachments/assets/01bee650-27b3-4d1a-a5f9-1899373bb367" />
+<img width="1366" height="768" alt="Super Mario 64 Coop Deluxe v1 5 1 31 10 2026 15_14_07" src="https://github.com/user-attachments/assets/03d411d2-df84-4cde-8951-b3595b3f9579" />
+<img width="1366" height="768" alt="Super Mario 64 Coop Deluxe v1 5 1 31 10 2026 15_14_49" src="https://github.com/user-attachments/assets/7990d89d-d889-4eff-ad9f-1c77952608c3" />
 
 A controller-friendly admin panel mod for **Super Mario 64 CoopDX**.
 Open it with `/admin panel` or the shortcut `/ap`. No mouse needed.
